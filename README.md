@@ -117,6 +117,7 @@ Descripción y comparación de los conceptos ACID, BASE y el Teorema CAP.
 
 ## Quizzes de SQLZoo
 Reflexiones y aprendizajes clave de los quizzes realizados en [SQLZoo](https://sqlzoo.net/wiki/SELECT_basics).
+
 ![image](https://github.com/Vaquin/Act.1---Conceptos-de-BDs/assets/141975352/b78d83e7-46b6-44b9-8e50-65731fad22b7)
 
 ---
