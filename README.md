@@ -44,7 +44,6 @@ Sabado 27 de Enero de 2024
 ---
 
 ## Introducción
-[Texto de introducción explicando el propósito del documento y un breve resumen de lo que se incluirá.]
 Este documento busca explorar y profundizar en los aspectos fundamentales de las bases de datos, enfocándose en el Modelo Relacional y su comparación con los modelos No Relacionales. A través de un análisis detallado y mapas conceptuales elaborados a partir de fuentes sugeridas, se busca brindar una comprensión clara de los conceptos clave como la normalización, integridad de datos, y las diferencias entre los Sistemas de Gestión de Bases de Datos (SGBD) más utilizados. Además, se realiza una práctica aplicada mediante la transformación de un modelo Entidad-Relación a un Modelo Relacional, seguida de la realización de ejercicios prácticos en SQL para consolidar el aprendizaje teórico. Este trabajo no solo es un requisito académico sino también una herramienta valiosa para comprender mejor el diseño, la implementación y la gestión eficiente de bases de datos en el ámbito profesional.
 
 ---
@@ -123,7 +122,6 @@ Reflexiones y aprendizajes clave de los quizzes realizados en [SQLZoo](https://s
 ---
 
 ## Conclusiones
-[Texto con las conclusiones personales y reflexiones sobre lo aprendido.]
 Podemos concluir que la elección entre un modelo relacional y un modelo no relacional depende significativamente del tipo de aplicación, los requisitos de datos y el contexto específico de uso. Mientras los modelos relacionales ofrecen una estructura organizada y una fuerte integridad de datos, los modelos no relacionales proporcionan flexibilidad y escalabilidad. La comprensión de conceptos como la normalización y la integridad de datos es crucial para mantener la calidad y la coherencia en los sistemas de bases de datos. La realización de ejercicios prácticos en SQL y la aplicación de teorías en un contexto real fortalece la capacidad de diseñar y gestionar bases de datos de manera efectiva. Este trabajo ha proporcionado una base sólida en conceptos de bases de datos, herramientas esenciales para el desarrollo profesional en el campo de la tecnología de la información.
 
 ---
